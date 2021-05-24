@@ -1,0 +1,2 @@
+rootProject.name = "TestPhpMysql0801"
+include ':app'
